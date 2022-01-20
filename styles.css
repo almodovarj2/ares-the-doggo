@@ -1,0 +1,13 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+    background-color: lightgrey;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
